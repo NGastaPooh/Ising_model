@@ -92,7 +92,7 @@ def main():
                 system = metropolis(system)
             animation_frames[i, :, :] = system
     else:  # secret Jetstream Sam run
-        img_two_colors = np.loadtxt('test_run.txt', dtype='int', delimiter=',')
+        img_two_colors = np.loadtxt('sam.txt', dtype='int', delimiter=',')
         for i in range(number_of_frames):
             for j in range(steps_between_frames):
                 system = samopolis(system, img_two_colors)
