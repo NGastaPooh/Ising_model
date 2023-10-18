@@ -43,15 +43,11 @@ Command line prompt:
 
 `image_processing/sam.jpg` - a black-and-white picture of Jetstream Sam
 
-`Ising_model.py` - the main python script that does all the project related tasks  
+**`Ising_model.py`** - the main python script that does all the project related tasks  
 
 `sam.txt` - contains a 256x256 array of $` \{ +1, -1 \} `$ values obtained from a processed .jpg picture  
-
-## Refs
 
 [1]: <https://en.wikipedia.org/wiki/Ising_model> "Ising model"
 [2]: <https://en.wikipedia.org/wiki/Metropolis–Hastings_algorithm> "Metropolis algorythm"
 [3]: <https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance> "Metal Gear: Revengeance"
-
-
 
