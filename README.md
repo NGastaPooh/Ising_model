@@ -1,5 +1,10 @@
 # Ising model: Revengeance
 
+<p float="left">
+  <img src="/examples/T=0.1.gif" width="30%" />
+  <img src="/examples/sam.gif" width="30%" /> 
+</p>
+
 ## Description
 
 The goal of this project is to visualize the evolution of 2D ferromagnetic Ising model (wiki ref) at given temperature with no external field.    
