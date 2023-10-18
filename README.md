@@ -7,7 +7,9 @@
 
 ## Description
 
-The goal of this project is to visualize the evolution of 2D ferromagnetic Ising model (wiki ref) at given temperature with no external field. Assuming that each site in a 2D system is labeled with a pair of indices $` \left(k, k'\right) `$ and has a value $` \sigma_{kk'} = \{ +1, -1 \} `$, then the corresponding Hamiltonian of the system is:  
+The goal of this project is to visualize the evolution of 2D ferromagnetic 
+<a href="https://en.wikipedia.org/wiki/Ising_model" target="_blank" title="Hobbit lifestyles">Ising model</a> 
+at given temperature with no external field. Assuming that each site in a 2D system is labeled with a pair of indices $` \left(k, k'\right) `$ and has a value $` \sigma_{kk'} = \{ +1, -1 \} `$, then the corresponding Hamiltonian of the system is:  
 
 $$
 H(\sigma) = - \sum_{\langle ij, lm\rangle} \sigma_{ij} \sigma_{lm} , 
@@ -48,8 +50,4 @@ Command line prompt:
 
 ## Refs
 
-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
