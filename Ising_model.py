@@ -12,7 +12,7 @@ MC_steps = 10 ** 6  # number of Monte-Carlo steps
 
 # read user specified primary parameters
 T = float(input("Specify a positive value for temperature T"
-                "(hints: <= 1.0 is somewhat cold, >=5.0 is somewhat hot, "
+                " (hints: <= 1.0 is somewhat cold, >=5.0 is somewhat hot, "
                 "2.269 - critical, 1.69 - Jetstream Sam):\n"))
 if T <= 0:
     exit("Temperature must be a positive number")
