@@ -16,7 +16,7 @@ $$
 where the sum is over pairs of adjacent spins (every pair is counted once). The notation $\langle ij, lm\rangle$ indicates that the sites 
 $(i, j)$ and $(l, m)$ are nearest neighbors.  
 
-The system is propagated according to [Metropolis Monte-Carlo algorythm][2].
+The system is propagated according to [Metropolis Monte-Carlo algorithm][2].
 
 As an additional feature, this particular realization of Ising model can recreate an image of Jetstream Sam (use $T = 1.69$), a character from a video game called [Metal Gear Rising: Revengeance][3], as if it was a natural equilibrium state of Ising model, by using a processed image as a reference.
 
@@ -48,6 +48,6 @@ Command line prompt:
 `sam.txt` - contains a 256x256 array of $` \{ +1, -1 \} `$ values obtained from a processed .jpg picture  
 
 [1]: <https://en.wikipedia.org/wiki/Ising_model> "Ising model"
-[2]: <https://en.wikipedia.org/wiki/Metropolis–Hastings_algorithm> "Metropolis algorythm"
+[2]: <https://en.wikipedia.org/wiki/Metropolis–Hastings_algorithm> "Metropolis algorithm"
 [3]: <https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance> "Metal Gear: Revengeance"
 
