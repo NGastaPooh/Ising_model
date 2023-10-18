@@ -1,6 +1,9 @@
 # Ising model: Revengeance
 
-<img align="left" src="/examples/sam.gif" width="300"> 
+<p>
+  <img align="top" src="/examples/T=0.1.gif" width="200" /> 
+  <img align="top" src="/examples/sam.gif" width="200" /> 
+</p>
 
 ## Description
 
