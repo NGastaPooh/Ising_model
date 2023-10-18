@@ -27,7 +27,7 @@ Fixed parameters:
 - System size: 256x256  
 - Number of Monte-Carlo steps: 10^6  
 
-Chosen from command line prompt:
+Command line prompt:
 
 - Temperature: any positive value, in reduced units ($k_B = 1$)
 - One of the proposed initial configurations:   
@@ -40,7 +40,7 @@ Chosen from command line prompt:
 
 `image_processing/sam.py` - a python script that converts an image into a 256x256 array suitable for usage in Ising model
 
-`image_processing/sam_bw.jpg` - a black-and-white picture of Jetstream Sam
+`image_processing/sam.jpg` - a black-and-white picture of Jetstream Sam
 
 `Ising_model.py` - the main python script that does all the project related tasks  
 
