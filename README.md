@@ -27,7 +27,7 @@ Fixed parameters:
 - System size: 256x256  
 - Number of Monte-Carlo steps: 10^6  
 
-Chosen from command line promt:
+Command line prompt:
 
 - Temperature: any positive value, in reduced units ($k_B = 1$)
 - One of the proposed initial configurations:   
