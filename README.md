@@ -7,9 +7,7 @@
 
 ## Description
 
-The goal of this project is to visualize the evolution of 2D ferromagnetic Ising model (wiki ref) at given temperature with no external field.    
-Assuming that each site in a 2D system is labled with a pair of indicies $` \left(k, k'\right) `$ and has a value $` \sigma_{kk'} = \{ +1, -1 \} `$,
-then the corresponding Hamiltonian of the system is:  
+The goal of this project is to visualize the evolution of 2D ferromagnetic Ising model (wiki ref) at given temperature with no external field. Assuming that each site in a 2D system is labled with a pair of indicies $` \left(k, k'\right) `$ and has a value $` \sigma_{kk'} = \{ +1, -1 \} `$, then the corresponding Hamiltonian of the system is:  
 
 $$
 H(\sigma) = - \sum_{\langle ij, lm\rangle} \sigma_{ij} \sigma_{lm} , 
@@ -46,7 +44,7 @@ Chosen from command line promt:
 
 `image_processing/sam_bw.jpg` - a black-and-white picture of Jetstream Sam
 
-`test_run.txt` - contains a 256x256 array of $\{ +1, -1 \}$ values obtained from a processed .jpg picture  
+`test_run.txt` - contains a 256x256 array of $` \{ +1, -1 \} `$ values obtained from a processed .jpg picture  
 
 ## Refs
 
