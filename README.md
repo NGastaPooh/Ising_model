@@ -38,11 +38,11 @@ Chosen from command line promt:
 
 `examples/` - a directory with a few prerecorded animations in .gif format
 
-`Ising_model.py` - the main python script that does all of the project related tasks  
-
 `image_processing/sam.py` - a python script that converts an image into a 256x256 array suitable for usage in Ising model
 
 `image_processing/sam_bw.jpg` - a black-and-white picture of Jetstream Sam
+
+`Ising_model.py` - the main python script that does all of the project related tasks  
 
 `test_run.txt` - contains a 256x256 array of $` \{ +1, -1 \} `$ values obtained from a processed .jpg picture  
 
