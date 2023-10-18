@@ -1,10 +1,6 @@
 # Ising model: Revengeance
 
-<p float="left">
-  <img src="/examples/T=0.1.gif" width="33%" />
-  <img src="/examples/sam.gif" width="33%" /> 
-  <img src="/examples/T=10.gif" width="33%" />
-</p>
+<img align="middle" src="/examples/sam.gif" width="300"> 
 
 ## Description
 
