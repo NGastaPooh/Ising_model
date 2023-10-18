@@ -40,7 +40,7 @@ Chosen from command line promt:
 
 `image_processing/sam.py` - a python script that converts an image into a 256x256 array suitable for usage in Ising model
 
-`image_processing/sam_bw.jpg` - a black-and-white picture of Jetstream Sam
+`image_processing/sam.jpg` - a black-and-white picture of Jetstream Sam
 
 `Ising_model.py` - the main python script that does all of the project related tasks  
 
